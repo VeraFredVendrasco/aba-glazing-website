@@ -44,27 +44,7 @@ const SITE_CONFIG = {
         youtube: "https://youtube.com/@abaglazing"
     },
 
-    // Showrooms
-    showrooms: [
-        {
-            name: "São Paulo",
-            address: "Rua das Janelas, 123 - Centro",
-            phone: "(11) 99999-9999",
-            hours: "Mon-Fri: 8am-6pm, Sat: 8am-12pm"
-        },
-        {
-            name: "Rio de Janeiro",
-            address: "Av. das Portas, 456 - Copacabana",
-            phone: "(21) 99999-9999",
-            hours: "Mon-Fri: 8am-6pm, Sat: 8am-12pm"
-        },
-        {
-            name: "Belo Horizonte",
-            address: "Rua do Vidro, 789 - Savassi",
-            phone: "(31) 99999-9999",
-            hours: "Mon-Fri: 8am-6pm, Sat: 8am-12pm"
-        }
-    ],
+
 
     // Products
     products: {
@@ -120,11 +100,6 @@ const SITE_CONFIG = {
 
     // Features
     features: [
-        {
-            icon: "fas fa-leaf",
-            title: "Energy Efficiency",
-            description: "Our products have an A++ energy performance rating"
-        },
         {
             icon: "fas fa-shield-alt",
             title: "Security",
