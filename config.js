@@ -52,7 +52,7 @@ const SITE_CONFIG = {
             title: "ABA Glazing Windows",
             subtitle: "For a warmer, more energy efficient home",
             description: "Our bespoke windows are made to fit each home's unique character just right. Providing A++ rated windows as standard, ABA Glazing's stylish fittings are energy efficient and reduce heating costs.",
-            image: "assets/windows-placeholder.jpg",
+            image: "Windows03.jpg",
             features: [
                 "A++ energy efficiency rating",
                 "Superior thermal insulation",
@@ -65,7 +65,7 @@ const SITE_CONFIG = {
             title: "ABA Glazing Doors",
             subtitle: "For a stunning first impression",
             description: "All our windows and doors are burglar-resistant. They also come with a security guarantee backed by ABA Glazing. So you can relax knowing your home is safe.",
-            image: "assets/doors-placeholder.jpg",
+            image: "Door.jpg",
             features: [
                 "Certified burglar resistance",
                 "Security guarantee",
