@@ -16,16 +16,16 @@ const SITE_CONFIG = {
 
     // Brand Colors (CSS Variables)
     colors: {
-        primary: "#2563eb",        // Primary blue
-        secondary: "#1d4ed8",      // Dark blue
-        accent: "#60a5fa",         // Light blue
+        primary: "#10b981",        // Primary green (matches logo)
+        secondary: "#059669",      // Dark green
+        accent: "#34d399",         // Light green
         success: "#10b981",        // Success green
         warning: "#f59e0b",        // Warning yellow
         error: "#ef4444",          // Error red
-        dark: "#1e293b",           // Dark
-        light: "#f8fafc",          // Light
-        textDark: "#1e293b",       // Dark text
-        textLight: "#64748b"       // Light text
+        dark: "#064e3b",           // Dark green
+        light: "#f0fdf4",          // Light green tint
+        textDark: "#064e3b",       // Dark green text
+        textLight: "#065f46"       // Medium green text
     },
 
     // Company Statistics
